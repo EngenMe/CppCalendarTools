@@ -1,0 +1,22 @@
+﻿  DateLibraryProject.cpp
+C:\Users\moham\source\repos\DateLibraryProject\DateLibraryProject\DateLibraryProject.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\moham\source\repos\DateLibraryProject\DateLibraryProject\clsDate.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'DateLibraryProject.cpp')
+  
+C:\Users\moham\source\repos\DateLibraryProject\DateLibraryProject\clsString.h(46,44): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'DateLibraryProject.cpp')
+  
+C:\Users\moham\source\repos\DateLibraryProject\DateLibraryProject\clsString.h(68,34): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'DateLibraryProject.cpp')
+  
+C:\Users\moham\source\repos\DateLibraryProject\DateLibraryProject\clsString.h(249,45): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'DateLibraryProject.cpp')
+  
+C:\Users\moham\source\repos\DateLibraryProject\DateLibraryProject\clsString.h(286,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'DateLibraryProject.cpp')
+  
+C:\Users\moham\source\repos\DateLibraryProject\DateLibraryProject\DateLibraryProject.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\moham\source\repos\DateLibraryProject\DateLibraryProject\clsPeriod.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'DateLibraryProject.cpp')
+  
+  DateLibraryProject.vcxproj -> C:\Users\moham\source\repos\DateLibraryProject\x64\Debug\DateLibraryProject.exe
